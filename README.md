@@ -6,3 +6,6 @@ git remote -v
 
 # Question 2. How many students are in or were in the Air Force?
 Two
+
+# Question 3. How many and what parts are in an html document?
+Two: Head and Body
